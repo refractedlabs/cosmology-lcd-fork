@@ -1,1 +1,1 @@
-AN EXACT COPY OF https://github.com/cosmology-tech/telescope/tree/main/packages/lcd TO ADD SUPPORT FOR CONFIGURING AXIOS TIMEOUT USING ENV VARIABLE.
+AN EXACT COPY OF https://github.com/cosmology-tech/telescope/tree/main/packages/lcd (v0.13.4) TO ADD SUPPORT FOR CONFIGURING AXIOS TIMEOUT USING ENV VARIABLE.
